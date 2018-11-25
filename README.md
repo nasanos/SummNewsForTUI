@@ -3,7 +3,7 @@
 ## What It Is
 This is a Python program that summarizes current BBC news articles, presenting the headlines and summaries in a console interface (or TUI -- Terminal User Interface).
 
-Just run the `\__main__.py` script from your console -- the program will retrieve the BBC news articles and provide you a list of headlines. Select a headline to read its summary.
+Just run the `__main__.py` script from your console -- the program will retrieve the BBC news articles and provide you a list of headlines. Select a headline to read its summary.
 
 ![SummNews's TUI headline menu](/screenshots/SummNewsForTUI-Screenshot_01-Headline_Menu.png)
 
